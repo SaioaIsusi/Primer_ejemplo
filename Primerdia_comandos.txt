@@ -1,0 +1,589 @@
+
+C:\Users\saioa>di
+"di" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa>dir
+ El volumen de la unidad C es Windows-SSD
+ El número de serie del volumen es: CEB5-541A
+
+ Directorio de C:\Users\saioa
+
+21/03/2024  04:29    <DIR>          .
+12/08/2023  17:59    <DIR>          ..
+21/11/2023  09:41    <DIR>          3D Objects
+21/11/2023  09:41    <DIR>          AppMods
+12/08/2023  17:37    <DIR>          Contacts
+21/11/2023  09:41    <DIR>          Desktop
+12/08/2023  17:39    <DIR>          Documents
+17/04/2024  10:10    <DIR>          Downloads
+12/08/2023  17:37    <DIR>          Favorites
+10/04/2024  10:06    <DIR>          iCloudDrive
+10/04/2024  10:06    <DIR>          iCloudPhotos
+12/08/2023  17:37    <DIR>          Links
+21/11/2023  09:41    <DIR>          Music
+16/04/2024  09:06    <DIR>          OneDrive
+21/11/2023  09:41    <DIR>          Recorded Calls
+12/08/2023  17:37    <DIR>          Saved Games
+12/08/2023  17:59    <DIR>          Searches
+21/03/2024  11:45    <DIR>          Videos
+14/11/2023  10:20    <DIR>          Weka-3-8-6
+12/02/2024  20:42    <DIR>          wekafiles
+               0 archivos              0 bytes
+              20 dirs  366.968.602.624 bytes libres
+
+C:\Users\saioa>view
+"view" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa>dir
+ El volumen de la unidad C es Windows-SSD
+ El número de serie del volumen es: CEB5-541A
+
+ Directorio de C:\Users\saioa
+
+21/03/2024  04:29    <DIR>          .
+12/08/2023  17:59    <DIR>          ..
+21/11/2023  09:41    <DIR>          3D Objects
+21/11/2023  09:41    <DIR>          AppMods
+12/08/2023  17:37    <DIR>          Contacts
+21/11/2023  09:41    <DIR>          Desktop
+12/08/2023  17:39    <DIR>          Documents
+17/04/2024  10:10    <DIR>          Downloads
+12/08/2023  17:37    <DIR>          Favorites
+10/04/2024  10:06    <DIR>          iCloudDrive
+10/04/2024  10:06    <DIR>          iCloudPhotos
+12/08/2023  17:37    <DIR>          Links
+21/11/2023  09:41    <DIR>          Music
+16/04/2024  09:06    <DIR>          OneDrive
+21/11/2023  09:41    <DIR>          Recorded Calls
+12/08/2023  17:37    <DIR>          Saved Games
+12/08/2023  17:59    <DIR>          Searches
+21/03/2024  11:45    <DIR>          Videos
+14/11/2023  10:20    <DIR>          Weka-3-8-6
+12/02/2024  20:42    <DIR>          wekafiles
+               0 archivos              0 bytes
+              20 dirs  366.968.594.432 bytes libres
+
+C:\Users\saioa>git config --list
+pack.packsizelimit=2g
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files (x86)/Git/mingw32/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+
+C:\Users\saioa>git config --global user.name "Saioa Isusi"
+
+C:\Users\saioa>git config --global user.name "Saioa Isusi"
+
+C:\Users\saioa>git config --global user.name "Saioa Isusi"
+
+C:\Users\saioa>git config --list
+pack.packsizelimit=2g
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files (x86)/Git/mingw32/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=Saioa Isusi
+
+C:\Users\saioa>git config --global user.email "saioa.isusi@alumni.mondragon.edu
+
+C:\Users\saioa>git config --global user.email "saioa.isusi@alumni.mondragon.edu"
+
+C:\Users\saioa>git config --list
+pack.packsizelimit=2g
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files (x86)/Git/mingw32/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=Saioa Isusi
+user.email=saioa.isusi@alumni.mondragon.edu
+
+C:\Users\saioa>git config --list
+pack.packsizelimit=2g
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files (x86)/Git/mingw32/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=Saioa Isusi
+user.email=saioa.isusi@alumni.mondragon.edu
+
+C:\Users\saioa>git config --global core.editor VIM
+
+C:\Users\saioa>git config --list
+pack.packsizelimit=2g
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files (x86)/Git/mingw32/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=Saioa Isusi
+user.email=saioa.isusi@alumni.mondragon.edu
+core.editor=VIM
+
+C:\Users\saioa>git config --list
+pack.packsizelimit=2g
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files (x86)/Git/mingw32/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=Saioa Isusi
+user.email=saioa.isusi@alumni.mondragon.edu
+core.editor=VIM
+
+C:\Users\saioa>cd Documentos
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\saioa>cd Documents
+
+C:\Users\saioa\Documents>cdC:\Users\saioa\OneDrive\Escritorio\BData1\Reto 4
+El nombre de archivo, el nombre de directorio o la sintaxis de la etiqueta del volumen no son correctos.
+C:\Users\saioa\Documents>cd Users\saioa\OneDrive\Escritorio\BData1\Reto 4
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\saioa\Documents>cd C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git init
+Initialized empty Git repository in C:/Users/saioa/OneDrive/Escritorio/BData1/Data science I/Saioa Data science/RETO 4/Primer ej GIT/.git/
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        archivo1 - copia.txt
+        archivo1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git add archivo1.txt
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   archivo1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        archivo2.txt
+
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git commit -m "Comitemos el primer archivi"
+[master (root-commit) a7b0a1f] Comitemos el primer archivi
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 archivo1.txt
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        archivo2.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git log --online
+fatal: unrecognized argument: --online
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git log --oneline
+a7b0a1f (HEAD -> master) Comitemos el primer archivi
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git log --oneline
+a7b0a1f (HEAD -> master) Comitemos el primer archivi
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git add .
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Una_carpeta/otrofichero.txt
+        new file:   Una_carpeta/otrofichero1.txt
+        new file:   archivo2.txt
+
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git commit -m "Comiteamos archivo"
+[master 0c965b6] Comiteamos archivo
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Una_carpeta/otrofichero.txt
+ create mode 100644 Una_carpeta/otrofichero1.txt
+ create mode 100644 archivo2.txt
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git commit -m "Comiteamos muchos archivos"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git log
+commit 0c965b6b3abf94be2e13b789d68c5638b377a495 (HEAD -> master)
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:47:17 2024 +0200
+
+    Comiteamos archivo
+
+commit a7b0a1f9c31111aa7794ada91f4aa24cb42155e2
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:39:52 2024 +0200
+
+    Comitemos el primer archivi
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git restore archivo1.txt
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>add.
+"add." no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>add .
+"add" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git add .
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git commit -m "archivo 1"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch "Rama_Saioa"
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch Rama_Saioa
+fatal: a branch named 'Rama_Saioa' already exists
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch rama_saioa
+fatal: a branch named 'rama_saioa' already exists
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch -a
+  Rama_Saioa
+* master
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch rama_arai
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>branch -a
+"branch" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch -a
+  Rama_Saioa
+* master
+  rama_arai
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch rama_saioa
+fatal: a branch named 'rama_saioa' already exists
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git checkout rama_arai
+Switched to branch 'rama_arai'
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch -a
+  Rama_Saioa
+  master
+* rama_arai
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git checkout rama_arai
+Already on 'rama_arai'
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch saioa_rama
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git checkout saioa_rama
+Switched to branch 'saioa_rama'
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch -a
+  Rama_Saioa
+  master
+  rama_arai
+* saioa_rama
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>add .
+"add" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git add .
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch saioa_rama
+nothing to commit, working tree clean
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git add otrofichero.txt
+fatal: pathspec 'otrofichero.txt' did not match any files
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>add .
+"add" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git add .
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git status
+On branch saioa_rama
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   Una_carpeta/otrofichero.txt
+
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git checkout master
+M       Una_carpeta/otrofichero.txt
+Switched to branch 'master'
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>get cheouckt master
+"get" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git log
+commit 0c965b6b3abf94be2e13b789d68c5638b377a495 (HEAD -> master, saioa_rama, rama_arai, Rama_Saioa)
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:47:17 2024 +0200
+
+    Comiteamos archivo
+
+commit a7b0a1f9c31111aa7794ada91f4aa24cb42155e2
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:39:52 2024 +0200
+
+    Comitemos el primer archivi
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>get checkgout saioa_rama
+"get" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git log
+commit 0c965b6b3abf94be2e13b789d68c5638b377a495 (HEAD -> master, saioa_rama, rama_arai, Rama_Saioa)
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:47:17 2024 +0200
+
+    Comiteamos archivo
+
+commit a7b0a1f9c31111aa7794ada91f4aa24cb42155e2
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:39:52 2024 +0200
+
+    Comitemos el primer archivi
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git checkout rama_saioa
+M       Una_carpeta/otrofichero.txt
+Switched to branch 'rama_saioa'
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git merge rama_saioa
+Already up to date.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git checkout master
+M       Una_carpeta/otrofichero.txt
+Switched to branch 'master'
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git checkout saioa_rama
+M       Una_carpeta/otrofichero.txt
+Switched to branch 'saioa_rama'
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git checkout master
+M       Una_carpeta/otrofichero.txt
+Switched to branch 'master'
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git merge rama_saioa
+Already up to date.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git merge Saioa_Rama
+Already up to date.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch -d C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT\Una_carpeta\otrofichero.txt-d rama_
+error: branch 'C:\Users\saioa\OneDrive\Escritorio\BData1\Data' not found
+error: branch 'science' not found
+error: branch 'I\Saioa' not found
+error: branch 'Data' not found
+error: branch 'science\RETO' not found
+error: branch '4\Primer' not found
+error: branch 'ej' not found
+error: branch 'GIT\Una_carpeta\otrofichero.txt-d' not found
+error: branch 'rama_' not found
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch -d rama_arai
+Deleted branch rama_arai (was 0c965b6).
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch
+  Rama_Saioa
+* master
+  saioa_rama
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch -d Rama_Saioa
+Deleted branch Rama_Saioa (was 0c965b6).
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git branch
+* master
+  saioa_rama
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git log
+commit 0c965b6b3abf94be2e13b789d68c5638b377a495 (HEAD -> master, saioa_rama)
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:47:17 2024 +0200
+
+    Comiteamos archivo
+
+commit a7b0a1f9c31111aa7794ada91f4aa24cb42155e2
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:39:52 2024 +0200
+
+    Comitemos el primer archivi
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>git log
+commit 0c965b6b3abf94be2e13b789d68c5638b377a495 (HEAD -> master, saioa_rama)
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:47:17 2024 +0200
+
+    Comiteamos archivo
+
+commit a7b0a1f9c31111aa7794ada91f4aa24cb42155e2
+Author: Saioa Isusi <saioa.isusi@alumni.mondragon.edu>
+Date:   Wed Apr 17 10:39:52 2024 +0200
+
+    Comitemos el primer archivi
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>q
+"q" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\saioa\OneDrive\Escritorio\BData1\Data science I\Saioa Data science\RETO 4\Primer ej GIT>
